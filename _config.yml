@@ -4,3 +4,7 @@ permalink: ':title'
 highlighter: pygments
 safe: false
 title: 'Carte'
+
+url:     https://takagotch.github.io/page23
+baseurl: https://takagotch.github.io/page23
+
